@@ -1,0 +1,7 @@
+{
+  "symbol": "BTC-USD",
+  "side": "buy",
+  "qty": 10,
+  "slices": 5,
+  "duration": "30s"
+}
